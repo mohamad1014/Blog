@@ -20,6 +20,7 @@ OpenAI’s analysis links hallucinations to incentives across **pre-training** a
 
 ![OpenAI - Why Language Models Hallucinate](images/openai_img.png)
 <figcaption align="center"><b>Figure:</b> OpenAI’s analysis reveals how training and evaluation incentives drive models to guess rather than abstain, contributing to persistent hallucinations.</figcaption>
+
 ---
 
 ## Predicting (and Preventing) Hallucinations with Information Budgets
