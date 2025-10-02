@@ -1,5 +1,3 @@
----
-
 # From Guessing to Guarantees: Two Fresh Paths to Reducing LLM Hallucinations
 
 **TL;DR**
