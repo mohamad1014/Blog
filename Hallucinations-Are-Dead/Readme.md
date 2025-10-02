@@ -1,5 +1,3 @@
-Here’s a clean, ready-to-paste Markdown post you can drop into your GitHub blog.
-
 ---
 
 # From Guessing to Guarantees: Two Fresh Paths to Reducing LLM Hallucinations
@@ -154,9 +152,9 @@ HallBayes repo: https://github.com/leochlon/hallbayes
 
 ---
 
-[1]: https://openai.com/index/why-language-models-hallucinate/?utm_source=chatgpt.com "Why language models hallucinate"
-[2]: https://cdn.openai.com/pdf/d04913be-3f6f-4d2b-b283-ff432ef4aaa5/why-language-models-hallucinate.pdf?utm_source=chatgpt.com "Why Language Models Hallucinate"
-[3]: https://arxiv.org/abs/2509.11208?utm_source=chatgpt.com "Predictable Compression Failures: Why Language Models Actually Hallucinate"
+[1]: https://openai.com/index/why-language-models-hallucinate/ "Why language models hallucinate"
+[2]: https://cdn.openai.com/pdf/d04913be-3f6f-4d2b-b283-ff432ef4aaa5/why-language-models-hallucinate.pdf "Why Language Models Hallucinate"
+[3]: https://arxiv.org/abs/2509.11208 "Predictable Compression Failures: Why Language Models Actually Hallucinate"
 [4]: https://github.com/leochlon/hallbayes "GitHub - leochlon/hallbayes"
-[5]: https://www.arxiv.org/pdf/2509.11208?utm_source=chatgpt.com "Predictable Compression Failures: Why Language Models ..."
-[6]: https://arxiv.org/abs/2401.11817?utm_source=chatgpt.com "Hallucination is Inevitable: An Innate Limitation of Large Language Models"
+[5]: https://www.arxiv.org/pdf/2509.11208 "Predictable Compression Failures: Why Language Models ..."
+[6]: https://arxiv.org/abs/2401.11817 "Hallucination is Inevitable: An Innate Limitation of Large Language Models"
